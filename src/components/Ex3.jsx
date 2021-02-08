@@ -43,9 +43,9 @@ export default function Ex3(props) {
                         marginTop: "20px"
                     }}>
                         Maior número
-                        </Button>
-                    <p style={{marginTop: "20px"}}>O menor número é: <span id="ex3-menor"></span></p>
-                    <p style={{marginTop: "20px"}}>O maior número é: <span id="ex3-maior"></span></p>
+                </Button>
+                <p style={{marginTop: "20px"}}>O menor número é: <span id="ex3-menor"></span></p>
+                <p style={{marginTop: "20px"}}>O maior número é: <span id="ex3-maior"></span></p>
             </div>
         </div>
     );
