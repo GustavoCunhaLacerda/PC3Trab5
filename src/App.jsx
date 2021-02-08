@@ -21,7 +21,7 @@ export default function App(props) {
                 <Card title="Exercício #02" color="#2980b9">
                     <Ex2></Ex2>
                 </Card>
-                <Card title="Exercício #02" color="#8e44ad">
+                <Card title="Exercício #03" color="#8e44ad">
                     <Ex3></Ex3>
                 </Card>
             </div>
