@@ -7,6 +7,7 @@ import Ex2 from './components/Ex2';
 import Ex3 from './components/Ex3';
 import Ex4 from './components/Ex4';
 import Ex5 from './components/Ex5';
+import Ex6 from './components/Ex6';
 
 
 export default function App(props) {
@@ -31,6 +32,9 @@ export default function App(props) {
                 </Card>
                 <Card title="Exercício #05" color="#e67e22">
                     <Ex5></Ex5>
+                </Card>
+                <Card title="Exercício #06" color="#2c3e50">
+                    <Ex6></Ex6>
                 </Card>
             </div>
 
