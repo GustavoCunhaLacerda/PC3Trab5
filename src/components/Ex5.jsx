@@ -25,7 +25,7 @@ export default function Ex5(props) {
 
     return (
         <div className="Ex5">
-            <p>Receber 3 números e informar qual é o maior e o menor</p>
+            <p>Receber 3 números e informar qual é a média</p>
             <div>
                 <TextField id="ex5-numero1" label="numero 1" variant="outlined" style={inputStyle} />
                 <TextField id="ex5-numero2" label="numero 2" variant="outlined" style={inputStyle} />

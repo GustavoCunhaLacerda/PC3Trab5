@@ -8,6 +8,9 @@ import Ex3 from './components/Ex3';
 import Ex4 from './components/Ex4';
 import Ex5 from './components/Ex5';
 import Ex6 from './components/Ex6';
+import Ex7 from './components/Ex7';
+import Ex8 from './components/Ex8';
+import Ex9 from './components/Ex9';
 
 
 export default function App(props) {
@@ -15,6 +18,7 @@ export default function App(props) {
         <div className="App">
 
             <h1>Programação de Computadores 3 - Trabalho 5</h1>
+            <h2>Prof: José Gonçalo</h2>
             <h2>Aluno: Gustavo Cunha Lacerda</h2>
 
             <div className="Cards">
@@ -35,6 +39,15 @@ export default function App(props) {
                 </Card>
                 <Card title="Exercício #06" color="#2c3e50">
                     <Ex6></Ex6>
+                </Card>
+                <Card title="Exercício #07" color="#e84393">
+                    <Ex7></Ex7>
+                </Card>
+                <Card title="Exercício #08" color="#f39c12">
+                    <Ex8></Ex8>
+                </Card>
+                <Card title="Exercício #09" color="#e74c3c">
+                    <Ex9></Ex9>
                 </Card>
             </div>
 

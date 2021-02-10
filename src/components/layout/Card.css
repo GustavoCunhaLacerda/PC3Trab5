@@ -6,7 +6,7 @@
 
     display: flex;
     flex-direction: column;
-    min-width: 300px;
+    min-width: 500px;
     max-width: 500px;
 }
 
@@ -27,4 +27,8 @@
 
 .Card p {
     font-weight: 300;
+}
+
+.Card strong {
+    font-weight: 400;
 }
