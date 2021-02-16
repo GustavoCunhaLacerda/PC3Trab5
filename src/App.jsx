@@ -1,5 +1,6 @@
 import './App.css';
 import React from 'react';
+import { Link } from '@material-ui/core';
 
 import Card from './components/layout/Card';
 import Ex1 from './components/Ex1';
@@ -31,6 +32,8 @@ export default function App(props) {
             <h1>Programação de Computadores 3 - Trabalho 5</h1>
             <h2>Prof: José Gonçalo</h2>
             <h2>Aluno: Gustavo Cunha Lacerda</h2>
+            <h3>Código fonte disponível em <Link href="https://github.com/GustavoCunhaLacerda/PC3Trab5" color="inherit">github.com/GustavoCunhaLacerda/PC3Trab5</Link>
+            </h3>
 
             <div className="Cards">
                 <Card title="Exercício #01">
