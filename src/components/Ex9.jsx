@@ -24,12 +24,6 @@ const primo1001 = _ => {
 
 export default function Ex9(props) {
 
-    const inputStyle = {
-        width: "100px",
-        height: "50px",
-        margin: "20px"
-    };
-
     return (
         <div className="Ex9">
             <p>Qual é o 1001º número primo?</p>
@@ -44,7 +38,7 @@ export default function Ex9(props) {
                 }}>
                 calcular
             </Button>
-            <p style={{ marginTop: "20px" }}>O 1001º primo é <span id="ex9-primo"></span></p>
+            <p style={{ marginTop: "20px" }} id="ex9-primo">O 1001º primo é </p>
         </div>
     );
 };

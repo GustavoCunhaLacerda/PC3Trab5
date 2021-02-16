@@ -16,7 +16,6 @@ const somaFib = _ => {
 
     document.getElementById('ex8-termos').innerHTML = n;
     document.getElementById('ex8-soma').innerHTML = n ? fibArray.reduce( (total, num) => total + num ) : 0;
-    // console.log(fibArray);
 }
 
 export default function Ex8(props) {

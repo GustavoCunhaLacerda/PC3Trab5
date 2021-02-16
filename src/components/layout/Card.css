@@ -22,11 +22,24 @@
     color: #000;
     padding: 10px;
 
+    
     flex: 1;
 }
 
 .Card p {
     font-weight: 300;
+    overflow-wrap: break-word;
+}
+
+.Card table td {
+    padding: 0;
+}
+
+.Card table p {
+    font-size: 0.8rem;
+    overflow-wrap: break-word;
+    padding: 0;
+    margin: 10px;
 }
 
 .Card strong {
