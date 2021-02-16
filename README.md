@@ -24,7 +24,7 @@
 
 - <p style="color: red;"> 5° Trabalho da disciplina de programação de computadores 3. </p>
 
-To see the **app**, click here: [PC3-TRABALHO5](https://pc3-trab5.gustavocunhalacerda.vercel.app/)</br>
+Para ver o **app**, clique aqui: [PC3-TRABALHO5](https://pc3-trab5.gustavocunhalacerda.vercel.app/)</br>
 
 ## 🚀 Tecnologias
 
@@ -39,7 +39,7 @@ Tecnologias que eu usei para desenvolver essa aplicação:
 
 ### Requisitos
 
-**Clone o repositório e acesse a pasta*
+**Clone o repositório e acesse a pasta**
 
 ```bash
 $ git clone https://github.com/GustavoCunhaLacerda/PC3Trab5.git && cd PC3Trab5
